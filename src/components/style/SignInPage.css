@@ -1,0 +1,75 @@
+.wholewindow {
+    display: flex;
+    justify-content: space-between;
+
+  }
+  .signupside {
+    width: 758px;
+    
+  
+  }
+  
+  .bloglogo {
+    margin: 50px;
+    width: 140px;
+    height: 40px;
+  }
+  .bloglogo img {
+    display: block;
+    
+  }
+  
+  .formpart {
+    margin-left: 200px;
+    margin-top: 200px;
+  }
+ 
+  
+  .inputarea {
+    width: 400px;
+    height: 40px;
+    border-radius: 5px;
+  }
+  .forgot-password-link {
+    margin-left: 220px;
+    font-size: 14px;
+    color: grey;
+  }
+  
+  
+  .submitbutton {
+    width: 74px;
+    height: 32px;
+    margin-left: 163px;
+    border-radius: 10px;
+    
+  }
+  
+  .footerlink {
+    width: 207px;
+    height: 20px;
+    margin-left: 290px;
+    margin-top: 190px;
+  }
+  .footerlink a {
+    color:#1890ff;
+    text-decoration: none;
+  }
+  
+  .ant-btn-primary {
+    border-radius: 5px;
+  }
+  
+  label {
+    font-weight: 600;
+  }
+  
+  .imageside {
+    margin-left: 100px;
+  }
+  @media only screen and (max-width: 768px) {
+    .mainimage {
+      display: none;
+    }
+  }
+  

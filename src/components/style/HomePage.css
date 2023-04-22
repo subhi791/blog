@@ -1,0 +1,60 @@
+
+
+.header {
+    background-color: #007bec;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .bloglogoindashboard {
+     display: block;
+    margin: 18px 50px 17px;
+  }
+  .otherlinksnavigation {
+    display: flex;
+  }
+  
+ 
+  .profiledisplay {
+    margin-right: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+  }
+  
+  nav {
+    display: flex;
+   
+    align-items: flex-end;
+    
+  }
+  nav a {
+    color: white;
+    margin-right: 15px;
+    padding-bottom: 20px;
+    text-decoration: none;
+   
+    font-size: 18px;
+  }
+  nav a.active {
+    border-bottom: 2px solid white;
+    
+  }
+  nav a:nth-child(1) {
+    margin-right: 20px;
+    text-decoration: none;
+  }
+  
+  nav a:nth-child(2) {
+    margin-left: 20px;
+    text-decoration: none;
+  }
+  nav a:nth-child(3) {
+    margin-left: 20px;
+    text-decoration: none;
+  }
+  
+  #spanusername {
+    color: white;
+  }
+ 

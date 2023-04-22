@@ -1,0 +1,13 @@
+#sider {
+    background-color: white;
+    width: 500px;
+    border-right: solid 1px lightgray;
+  }
+  
+  
+  #sider h2 {
+    padding: 15px;
+    padding-bottom: 0;
+    
+  }
+  

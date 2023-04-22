@@ -1,0 +1,48 @@
+.wholeblogcontent {
+   
+    background-color: white;
+  
+    padding-top: 60px;
+    padding-left: 50px;
+    padding-right: 50px;
+  
+    height: 90vh;
+    width: 100%;
+    overflow: scroll;
+  }
+  .ant-layout-content {
+    background-color: white;
+  }
+  
+  .contentheading,
+  .contentavatar {
+    margin-left: 20px;
+  }
+  
+  .contentheading {
+    font-size: 20px;
+    letter-spacing: 0.19px;
+  }
+  
+  .contentavatar {
+    margin-top: 10px;
+  
+  }
+  
+  .maincontentofpost {
+    margin-top: 20px;
+    font-size: 18px;
+    line-height: 1.78;
+
+  }
+  
+  .imageincontent {
+    
+    margin-top: 20px;
+  }
+  
+  .imageincontent img {
+    max-height: 280px;
+    width: 100%;
+  }
+
